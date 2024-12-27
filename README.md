@@ -7,4 +7,4 @@ Tech stacks used:
 2. CSS
 3. JavaScript
 
-The weather of cities are fetched from the api provided by openweather.com.
+The weather of cities are fetched from an api provided by openweather.com.
